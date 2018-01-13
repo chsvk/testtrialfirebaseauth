@@ -1,0 +1,3 @@
+# testtrialfirebaseauth
+
+hi
